@@ -12,7 +12,7 @@ Functions are listed alphabetically.
 
 | Function | Description |
 |---|---|
-| [VBZS_AddWorkingdays](docs/VBZS_AddWorkingdays.md) | Adds working days to a date using a configurable working-week pattern. |
+| [VBZS_AddWorkingDays](docs/VBZS_AddWorkingDays.md) | Adds working days to a date using a configurable working-week pattern. |
 | [VBZS_Ascii](docs/VBZS_Ascii.md) | Filters text using predefined character sets for general text, email addresses and XML. |
 | [VBZS_DateFormat](docs/VBZS_DateFormat.md) | Converts a FileMaker date to text using a configurable date-format template. |
 | [VBZS_Easter](docs/VBZS_Easter.md) | Calculates Easter Sunday for a given year. |

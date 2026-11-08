@@ -19,11 +19,12 @@ Functions are listed alphabetically.
 | [VBZS_Fraction](docs/VBZS_Fraction.md) | Returns the fractional digits of a number as fixed-length text. |
 | [VBZS_FrontTabPanels](docs/VBZS_FrontTabPanels.md) | Returns the named tab and slide panels currently visible on a FileMaker layout. |
 | [VBZS_JSONParameters](docs/VBZS_JSONParameters.md) | Creates FileMaker variables from JSON objects and arrays, with support for namespaces and repeating variables. |
-| [VBZS_ListLogic](docs/VBZS_ListLogic.md) | Compares two FileMaker value lists using `AND`, `XOR` or `NOT` logic. |
+| [VBZS_ListLogic](docs/VBZS_ListLogic.md) | Compares two lists of values using `AND`, `XOR` or `NOT` logic. |
 | [VBZS_Local2UTC](docs/VBZS_Local2UTC.md) | Formats or converts a local timestamp to ISO 8601 or UTC/Zulu representations. |
 | [VBZS_ModKeys](docs/VBZS_ModKeys.md) | Makes the current FileMaker modifier-key states available as separate variables. |
 | [VBZS_OntDiakriet](docs/VBZS_OntDiakriet.md) | Filters text while replacing supported diacritics and special characters with ASCII equivalents. |
 | [VBZS_ResponseCode](docs/VBZS_ResponseCode.md) | Extracts the HTTP response code from an `Insert from URL` response header and creates response variables. |
+| [VBZS_QualifiedEmailAddresses](docs/VBZS_QualifiedEmailAddresses.md) | Validates one or more email addresses and returns only the addresses that meet the validation rules |
 | [VBZS_TrimAll_CR](docs/VBZS_TrimAll_CR.md) | Removes empty values from a return-delimited FileMaker list without modifying spaces. |
 | [VBZS_UTC2Local](docs/VBZS_UTC2Local.md) | Converts a UTC timestamp or numeric UTC value to local time with European DST correction. |
 | [VBZS_Version](docs/VBZS_Version.md) | Returns the installed VBZS version in readable or fixed-length version-comparison format. |
@@ -50,6 +51,7 @@ Functions are listed alphabetically.
 - [VBZS_Fraction](docs/VBZS_Fraction.md)
 - [VBZS_ListLogic](docs/VBZS_ListLogic.md)
 - [VBZS_OntDiakriet](docs/VBZS_OntDiakriet.md)
+- [VBZS_QualifiedEmailAddresses](docs/VBZS_QualifiedEmailAddresses.md) 
 - [VBZS_TrimAll_CR](docs/VBZS_TrimAll_CR.md)
 
 ### XML

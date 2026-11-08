@@ -88,12 +88,6 @@ Examples use FileMaker calculation syntax and return-delimited lists are represe
 ¶
 ```
 
-## XML Support
-
-VBZS provides [VBZS_XChildren](docs/VBZS_XChildren.md) and [VBZS_XPath](docs/VBZS_XPath.md) for working with XML.
-
-The XML functions are designed to make namespace handling straightforward dual documentation files are intentionally independent so they can be read directly from the repository or linked from other documentation.
-
 ## Versioning
 
 The installed VBZS version can be retrieved using:

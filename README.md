@@ -8,11 +8,25 @@ This documentation describes the individual VBZS functions, their parameters, be
 
 Use of the VBZS plug-in is free of charge, as specified in the license under which it is distributed. The plug-in has been tested with FileMaker 2024, 2025, and 2026 (versions 21.x, 22.x, and 26.x). It may also work with older versions of FileMaker, but is unlikely to work with FileMaker 2027.
 
+## Downloads
+
 You can [download the MacOS plugin directly here](Binairy_0.9.4.0/VBZS_fmplugin_macOS_0940.zip), it's codesigned and notarized. 
 
 To download [the Windows version please use this link](Binairy_0.9.4.0/VBZS_fmx64_Windows_0940.zip), but  be aware that the Windows version has not yet been codesigned. The certificate has been requested, but will take up until November 20 to be awarded and I will publish the signed version a.s.a.p.
 
-A Linux version is currently in development and will be made available here as soon as it's tested.
+For Linux there are separate versions [one for Ubuntu 24.04 AMD/Intel](Binairy_0.9.4.0/VBZS_ubuntu_amd64_0940.zip) and [the other for Ubuntu 24.04 ARM64](Binairy_0.9.4.0/VBZS_ubuntu_arm64_0940.zip) 
+
+## Check your download
+
+Please use [the checksums provided in this file: SHA256SUMS](Binairy_0.9.4.0/SHA256SUMS) to check  any of the downloads, by placing the downloaded plugin and the [SHA256SUMS](Binairy_0.9.4.0/SHA256SUMS) in the same directory 
+
+and run a terminal/commandline with: ```sha256sum -c --ignore-missing SHA256SUMS``` 
+
+the result should be one of these: 
+```VBZS_ubuntu_amd64_0940.zip: OK```
+```VBZS_ubuntu_arm64_0940.zip: OK```
+```VBZS_fmplugin_macOS_0940.zip: OK```
+```VBZS_fmx64_Windows_0940.zip: OK``` 
 
 ## Function Reference
 

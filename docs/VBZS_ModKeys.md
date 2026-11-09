@@ -4,6 +4,8 @@
 
 `VBZS_ModKeys` reads the modifier keys reported by FileMaker and stores the state of each supported key in a separate FileMaker variable.
 
+Note: This function is intended for use in FileMaker Pro and has no meaningful use in a server-side context.
+
 Each variable contains:
 
 ```text

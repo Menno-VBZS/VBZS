@@ -12,6 +12,8 @@ When a parameter is supplied, it acts as a filter and only the visible panels wh
 
 This makes `VBZS_FrontTabPanels` useful both for discovering the current visible panel structure and for testing whether specific panels are currently visible.
 
+Note: This function is intended for use in FileMaker Pro and has no meaningful use in a server-side context.
+
 ## Syntax
 
 ```text

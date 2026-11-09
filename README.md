@@ -6,6 +6,10 @@ The plug-in focuses on small, practical functions that simplify operations which
 
 This documentation describes the individual VBZS functions, their parameters, behaviour, limitations and practical use.
 
+You can [download the MacOS plugin directly here](Binairy_0.9.4.0/VBZS_fmplugin_macOS_0940.zip), it is codesigned and notarized. 
+
+To download [the Windows version pleas use this link](Binairy_0.9.4.0/VBZS_fmx64_Windows_0940.zip), but  be aware that the Windows version has not yet been codesigned. The certificate has been requested, but will take up until November 20 to be awarded and I will published the signed version a.s.a.p..
+
 ## Function Reference
 
 Functions are listed alphabetically.

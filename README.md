@@ -8,6 +8,12 @@ This documentation describes the individual VBZS functions, their parameters, be
 
 Use of the VBZS plug-in is free of charge, as specified in the license under which it is distributed. The plug-in has been tested with FileMaker 2024, 2025, and 2026 (versions 21.x, 22.x, and 26.x). It may also work with older versions of FileMaker, but is unlikely to work with FileMaker 2027.
 
+## Video presentation
+
+[![VBZS Plugin for FileMaker – Introduction and Overview](https://img.youtube.com/vi/6j5H3_6j8ZI/maxresdefault.jpg)](https://youtu.be/6j5H3_6j8ZI)
+
+_Click the image to watch the VBZS introduction and overview._
+
 ## Downloads
 
 You can [download the MacOS plugin directly here](Binairy_0.9.4.0/VBZS_fmplugin_macOS_0940.zip), it's codesigned and notarized. 

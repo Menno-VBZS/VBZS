@@ -4,8 +4,6 @@ VBZS is a cross-platform plug-in for FileMaker that provides additional calculat
 
 The plug-in focuses on small, practical functions that simplify operations which are missing from FileMaker, require unnecessarily complex calculations, or are useful enough to provide as native plug-in functions.
 
-Watch [this promotional video explaining](video/Introducing_VBZS_Plugin.mp4) the benefits of this plugin and why it may be of use to you.
-
 This documentation describes the individual VBZS functions, their parameters, behaviour, limitations and practical use.
 
 Use of the VBZS plug-in is free of charge, as specified in the license under which it is distributed. The plug-in has been tested with FileMaker 2024, 2025, and 2026 (versions 21.x, 22.x, and 26.x). It may also work with older versions of FileMaker, but is unlikely to work with FileMaker 2027.

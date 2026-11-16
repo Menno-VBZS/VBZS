@@ -4,31 +4,33 @@ VBZS requires a valid license for continued use. Without a valid license, the pl
 
 The plug-in has been tested with FileMaker 2024, 2025, and 2026 (versions 21.x, 22.x, and 26.x). It may also work with older versions of FileMaker, but is unlikely to work with versions older than 19.6.
 
+## Downloads
+
+You can [download the MacOS plugin directly here](Binairy/VBZS_fmplugin_macOS.zip), it's codesigned and notarized. 
+
+To download [the Windows version please use this link](Binairy/VBZS_fmx64_Windows.zip), codesigned.
+
+For Ubuntu separate versions for each architecture are available [one for Ubuntu 24.04 AMD/Intel](Binairy/VBZS_ubuntu_amd64.zip) and [the other for Ubuntu 24.04 ARM64](Binairy/VBZS_ubuntu_arm64.zip) 
+
+The current version is 0.9.4.6
+
 ## Video presentation
 
-[![VBZS Plugin for FileMaker – Introduction and Overview](https://img.youtube.com/vi/6j5H3_6j8ZI/maxresdefault.jpg)](https://youtu.be/6j5H3_6j8ZI)
+[![VBZS Plugin for FileMaker – Introduction and Overview](https://img.youtube.com/vi/veAJE9O0E3s/maxresdefault.jpg)](https://youtu.be/veAJE9O0E3s)
 
 _Click the image to watch the VBZS introduction and overview._
 
-## Downloads
-
-You can [download the MacOS plugin directly here](Binairy_0.9.4.5/VBZS_fmplugin_macOS_0945.zip), it's codesigned and notarized. 
-
-To download [the Windows version please use this link](Binairy_0.9.4.5/VBZS_fmx64_Windows_0945.zip), but  be aware that the Windows version has not yet been codesigned. The certificate has been requested, but will take up until November 20 to be awarded and I will publish the signed version a.s.a.p.
-
-For Linux there are separate versions [one for Ubuntu 24.04 AMD/Intel](Binairy_0.9.4.5/VBZS_ubuntu_amd64_0945.zip) and [the other for Ubuntu 24.04 ARM64](Binairy_0.9.4.5/VBZS_ubuntu_arm64_0945.zip) 
-
 ## Check your download
 
-Please use [the checksums provided in this file: SHA256SUMS](Binairy_0.9.4.5/SHA256SUMS) to check  any of the downloads, by placing the downloaded plugin and the [SHA256SUMS](Binairy_0.9.4.5/SHA256SUMS) in the same directory 
+Please use [the checksums provided in this file: SHA256SUMS](Binairy/SHA256SUMS) to check  any of the downloads, by placing the downloaded plugin and the [SHA256SUMS](Binairy/SHA256SUMS) in the same directory 
 
 and run a terminal/commandline with: ```sha256sum -c --ignore-missing SHA256SUMS``` 
 
 the result should be one of these: 
-```VBZS_ubuntu_amd64_0945.zip: OK```
-```VBZS_ubuntu_arm64_0945.zip: OK```
-```VBZS_fmplugin_macOS_0945.zip: OK```
-```VBZS_fmx64_Windows_0945.zip: OK``` 
+```VBZS_fmplugin_macOS.zip: OK```
+```VBZS_fmx64_Windows.zip: OK``` 
+```VBZS_ubuntu_amd64.zip: OK```
+```VBZS_ubuntu_arm64.zip: OK```
 
 ## Function Reference
 

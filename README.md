@@ -128,6 +128,8 @@ A valid license is required for continued use of the licensed VBZS functions. Wi
 
 VBZS licenses are cryptographically signed and contain the licensee, license type, licensed number of seats and the license generation for which the license was issued.
 
+##### Licenses will be available from early december 2026 on website: [https://customers.vbzs.nl/vbzsplugin.html](https://customers.vbzs.nl/vbzsplugin.html)
+
 ### Standard License
 
 A Standard License is intended for normal use by an individual or organization and supports between 1 and 25 licensed users.

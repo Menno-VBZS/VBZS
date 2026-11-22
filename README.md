@@ -44,7 +44,6 @@ Functions are listed alphabetically.
 | [VBZS_Easter](docs/VBZS_Easter.md) | Calculates Easter Sunday for a given year. |
 | [VBZS_Fraction](docs/VBZS_Fraction.md) | Returns the fractional digits of a number as fixed-length text. |
 | [VBZS_FrontTabPanels](docs/VBZS_FrontTabPanels.md) | Returns the named tab and slide panels currently visible on a FileMaker layout. |
-| [VBZS_JSONDelete](docs/VBZS_JSONDelete.md) | Removes one or more keys, array elements, or paths from a JSON document. |
 | [VBZS_JSONParameters](docs/VBZS_JSONParameters.md) | Creates FileMaker variables from JSON objects and arrays, with support for namespaces and repeating variables. |
 | [VBZS_LicenseInfo](docs/VBZS_LicenseInfo.md) | Returns information about the installed VBZS version and the currently active license |
 | [VBZS_ListLogic](docs/VBZS_ListLogic.md) | Compares two lists of values using `AND`, `XOR` or `NOT` logic. |
@@ -90,7 +89,6 @@ Functions are listed alphabetically.
 
 ### JSON
 
-- [VBZS_JSONDelete](docs/VBZS_JSONDelete.md)
 - [VBZS_JSONParameters](docs/VBZS_JSONParameters.md)
 
 ### FileMaker Interface and Environment

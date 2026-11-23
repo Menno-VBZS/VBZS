@@ -145,7 +145,7 @@ Using this pattern:
 ```filemaker
 VBZS_AddWorkingdays (
     startdate ;
-    "0011111" ;
+    "0111110" ;
     5
 )
 ```

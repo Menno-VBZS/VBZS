@@ -12,13 +12,8 @@ To download [the Windows version please use this link](Binairy/VBZS_fmx64_Window
 
 For Ubuntu separate versions for each architecture are available [one for Ubuntu 24.04 AMD/Intel](Binairy/VBZS_ubuntu_amd64.zip) and [the other for Ubuntu 24.04 ARM64](Binairy/VBZS_ubuntu_arm64.zip) 
 
-The current version is 0.9.4.6
+The current version is 0.9.5.0
 
-## Video presentation
-
-[![VBZS Plugin for FileMaker – Introduction and Overview](https://img.youtube.com/vi/veAJE9O0E3s/maxresdefault.jpg)](https://youtu.be/veAJE9O0E3s)
-
-_Click the image to watch the VBZS introduction and overview._
 
 ## Check your download
 

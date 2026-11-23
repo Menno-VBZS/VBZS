@@ -22,9 +22,13 @@ Please use [the checksums provided in this file: SHA256SUMS](Binairy/SHA256SUMS)
 and run a terminal/commandline with: ```sha256sum -c --ignore-missing SHA256SUMS``` 
 
 the result should be one of these: 
+
 ```VBZS_fmplugin_macOS.zip: OK```
+
 ```VBZS_fmx64_Windows.zip: OK``` 
+
 ```VBZS_ubuntu_amd64.zip: OK```
+
 ```VBZS_ubuntu_arm64.zip: OK```
 
 ## Function Reference

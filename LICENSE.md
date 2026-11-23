@@ -363,7 +363,7 @@ The license applicable to a particular VBZS release is the license distributed w
 
 Questions relating to licensing, Developer deployments, Enterprise deployments, license transfers, upgrades or replacement licenses should be directed to Van Beek Zakelijke Software.
 
-Technical information about runtime registration is available in:
+Technical information about runtime registration is available here:
 
 [VBZS_Register.md](docs/VBZS_Register.md)
 
